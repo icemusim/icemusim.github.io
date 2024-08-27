@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icemusim.github.io/sitemap.html.gz
+Sitemap: https://icemusim.github.io/app/sitemap.html.gz
+Sitemap: https://icemusim.github.io/assets/sitemap.html.gz
+Sitemap: https://icemusim.github.io/css/sitemap.html.gz
+Sitemap: https://icemusim.github.io/includes/sitemap.html.gz
+Sitemap: https://icemusim.github.io/item/sitemap.html.gz
+Sitemap: https://icemusim.github.io/src/sitemap.html.gz
